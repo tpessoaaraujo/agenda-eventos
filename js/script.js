@@ -49,7 +49,7 @@ atualizarTabelaEventos = () => {
         linha.appendChild(celulaNome)
         linha.appendChild(btnExcluir)
 
-       tabelaEventos.appendChild(linha)
+       /* tabelaEventos.appendChild(linha) */
     }
 }
 
