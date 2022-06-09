@@ -46,19 +46,19 @@
                     <div class="row g-3">
                       <div class="col-12">
                         <label for="nomeEvento" class="form-label">Nome do Evento</label>
-                        <input type="text" name="nomeEvento" id="nomeEvento" class="form-control">
+                        <input type="text" name="nomeEvento" id="nomeEvento" class="form-control" required>
                       </div>
                       <div class="col-12">
                         <label for="dataEvento" class="form-label">Data do Evento</label>
-                        <input type="date" name="dataEvento" id="dataEvento" class="form-control">
+                        <input type="date" name="dataEvento" id="dataEvento" class="form-control" required>
                       </div>
                       <div class="col-6">
                         <label for="horaInicio" class="form-label">Hora de Início</label>
-                        <input type="time" name="horaInicio" id="horaInicio" class="form-control">
+                        <input type="time" name="horaInicio" id="horaInicio" class="form-control" required>
                       </div>
                       <div class="col-6">
                         <label for="horaTermino" class="form-label">Hora de término</label>
-                        <input type="time" name="horaTermino" id="horaTermino" class="form-control">
+                        <input type="time" name="horaTermino" id="horaTermino" class="form-control" required>
                       </div>
                       <div class="col-6"><button type="button" class="btn btn-danger w-100" id="btnCancelarNovoEvento">Cancelar</button></div>
                       <div class="col-6"><button type="submit" name="submit" class="btn btn-success w-100">Salvar</button></div>
