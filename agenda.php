@@ -31,7 +31,7 @@
         <header class="container">
           <div class="row">
             <h1 class="col-10">Minha Agenda</h1>
-            <a href="/php/logout.php" class="col-1 btn btn-danger" id="logout" style="height: 35px; margin: 8px">Sair</a>
+            <a href="/agenda-eventos/php/logout.php" class="col-1 btn btn-danger" id="logout" style="height: 35px; margin: 8px">Sair</a>
           </div>
         </header>
         <main>
