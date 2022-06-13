@@ -21,7 +21,7 @@
         </header>
         <main class="container">
                 <div class="col-9 centered">
-                    <form action="/agenda-eventos/php/login.php" method="POST" id="formLogin">
+                    <form action="../agenda-eventos/php/login.php" method="POST" id="formLogin">
                         <div class="row">
                             <label for="email">E-mail</label>
                             <input type="email" name="email" id="email" required>
