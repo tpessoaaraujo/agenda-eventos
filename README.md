@@ -3,11 +3,12 @@
 
 <h3>Tecnologias utilizadas no projeto:</h3>
   <div style="display: inline_block">
-    <img align="center" alt="Thiago-PHP" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Thiago-MySQL" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="Thiago-Js" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Thiago-HTML" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Thiago-CSS" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Thiago-Bootstrap" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Thiago-PHP" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img align="center" alt="Thiago-MySQL" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </div>
   
 ##
